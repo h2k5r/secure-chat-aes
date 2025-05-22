@@ -108,8 +108,5 @@ Enter port to connect to: 5000
 
 ---
 
-## References
 
-- [AES and Diffie-Hellman in secure chat applications][1][2][3][5]
-- [pycryptodome documentation](https://pycryptodome.readthedocs.io/)
 
